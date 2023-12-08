@@ -7,5 +7,4 @@
 </p>
 
 # What is GorilLemon?
-GorilLemon is kind of like [Utilla](https://github.com/legoandmars/Utilla) but for LemonLoader!
-It'll just start out as a lib, but it will start to work like an actual mod soon!
+Never releasing.
